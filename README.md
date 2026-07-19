@@ -23,7 +23,19 @@
 ---
 ## 📂 Featured Projects
 
-🔹 🛍️ Retail Sales Analysis using SQL  
+
+*📊 E-Commerce Sales Analysis Dashboard using SQL, Excel, Power BI
+  * Interactive Dashboard
+  * Business Insights
+  * KPI Analysis
+  * Revenue analysis
+
+ 👩‍💻* Employee Department Analysis Dashboard
+ * SQL quries
+ * Excel Dashboard
+ * HR Analytics
+
+ 🔹 🛍️ Retail Sales Analysis using SQL  
 • Data Cleaning  
 • Business Insights  
 • Customer Analysis  
